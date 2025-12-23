@@ -1,0 +1,8 @@
+​Microcontroller: ESP32 TTGO LoRa32 OLED Board
+​Sensor: JSN-SR04T (Waterproof Ultrasonic Sensor)
+​VCC -> ESP32 5V (or 3.3V depending on sensor spec)
+​GND -> ESP32 GND
+​Trig -> ESP32 GPIO 12
+​Echo -> ESP32 GPIO 14
+​Power:
+​3.7V Li-Po Battery connected to the JST battery connector on the TTGO board.
